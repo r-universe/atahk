@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bucky",
+    "oncran": true
+  },
+  {
+    "package": "pscl",
+    "oncran": true
+  }
+]
