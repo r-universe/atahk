@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bucky"]
-	path = bucky
-	url = https://github.com/atahk/bucky
 [submodule "pscl"]
 	path = pscl
 	url = https://github.com/atahk/pscl
